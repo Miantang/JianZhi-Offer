@@ -49,4 +49,4 @@ public class Solution {
  return (int)Math.pow(2,n-1);
 ```
 
-很容易看出，这是2的n-1次方。于是有，`1<<(n-1);
+很容易看出，这是2的n-1次方。于是有，`1<<(n-1)`;
